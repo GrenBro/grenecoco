@@ -11,5 +11,5 @@ setuptools==41.2.0
 tabulate==0.8.7
 test-py==0.3
 websockets==8.1
-wheel==0.34.2
+wheel==0.38.1
 yarl==1.4.2
